@@ -1,7 +1,32 @@
 [
     {
-        "_id": "6357e5fa2b46484256e86780",
+        "_id": "01",
         "course": "Physics",
+        "category_id": "02"
+    },
+    {
+        "_id": "02",
+        "course": "Chemistry",
+        "category_id": "02"
+    },
+    {
+        "_id": "03",
+        "course": "Biology",
+        "category_id": "02"
+    },
+    {
+        "_id": "04",
+        "course": "Higher Math",
+        "category_id": "02"
+    },
+    {
+        "_id": "05",
+        "course": "General Math",
+        "category_id": "02"
+    },
+    {
+        "_id": "06",
+        "course": "ICT",
         "category_id": "02"
     }
 ]
