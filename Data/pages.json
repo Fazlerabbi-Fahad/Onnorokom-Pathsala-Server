@@ -1,0 +1,22 @@
+[
+    {
+        "id": "01",
+        "name": "Home"
+    },
+    {
+        "id": "02",
+        "name": "Courses"
+    },
+    {
+        "id": "03",
+        "name": "About"
+    },
+    {
+        "id": "04",
+        "name": "FAQ"
+    },
+    {
+        "id": "05",
+        "name": "Blog"
+    }
+]
