@@ -3,6 +3,7 @@
         "_id": "6357e0fbcffe8fe61bb8b93d",
         "video": "https://youtu.be/d4Hio_67hU8",
         "course": "Physics",
+        "course_id": "01",
         "name": "01. General discussion of waves and sound | তরঙ্গ এবং শব্দের সাধারণ আলোচনা | OnnoRokom Pathshala",
         "duration": 5.30
     },
@@ -10,6 +11,7 @@
         "_id": "6357e0fb6eb18a213883bcd2",
         "video": "https://www.youtube.com/watch?v=-r9OLFCbenk&list=PLxSt9YDBipm7DaFS8HTjW9k_d9bN7ALWs&index=3",
         "course": "Physics",
+        "course_id": "01",
         "name": "02. Periodic Motion | পর্যায় বৃত্ত গতি | OnnoRokom Pathshala",
         "duration": 4.25
     },
@@ -17,6 +19,7 @@
         "_id": "6357e0fbe6da22dcee6f5cf5",
         "video": "https://www.youtube.com/watch?v=2LBB-dSyBYc&list=PLxSt9YDBipm7DaFS8HTjW9k_d9bN7ALWs&index=4",
         "course": "Physics",
+        "course_id": "01",
         "name": "03. Harmonic Motion | স্পন্দন গতি | OnnoRokom Pathshala",
         "duration": 15.47
     },
@@ -24,6 +27,7 @@
         "_id": "6357e0fb4e76e8722b34ed2b",
         "video": "https://www.youtube.com/watch?v=Aaay5yK_EmY&list=PLxSt9YDBipm7DaFS8HTjW9k_d9bN7ALWs&index=5",
         "course": "Physics",
+        "course_id": "01",
         "name": "04. Periodic Formula | পর্যায়কালের সূত্র | OnnoRokom Pathshala",
         "duration": 5.02
     },
@@ -31,6 +35,7 @@
         "_id": "6357e0fb4de4512101f6b134",
         "video": "https://www.youtube.com/watch?v=P_astIP_iOM&list=PLxSt9YDBipm7DaFS8HTjW9k_d9bN7ALWs&index=6",
         "course": "Physics",
+        "course_id": "01",
         "name": "05. Mathematical Problem (Periodic Motion) | পর্যায়কালের গাণিতিক সমস্যাবলি | OnnoRokom Pathshala",
         "duration": 7.43
     },
@@ -38,6 +43,7 @@
         "_id": "6357e0fb5e2b3e2e77c2f0ba",
         "video": "https://www.youtube.com/watch?v=8-4rQpBjnh4&list=PLxSt9YDBipm7DaFS8HTjW9k_d9bN7ALWs&index=7",
         "course": "Physics",
+        "course_id": "01",
         "name": "06. Wave | তরঙ্গ | OnnoRokom Pathshala",
         "duration": 5.58
     }
