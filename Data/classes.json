@@ -40,11 +40,67 @@
         "duration": 7.43
     },
     {
-        "_id": "6357e0fb5e2b3e2e77c2f0ba",
+        "_id": "6357e0fb5e2b3e2e77c2f0ba1",
         "video": "https://www.youtube.com/embed/8-4rQpBjnh4",
         "course": "Physics",
         "course_id": "01",
         "name": "06. Wave | তরঙ্গ | OnnoRokom Pathshala",
         "duration": 5.58
+    },
+    {
+        "_id": "6357e0fb5e2b3e2e77c2f0ba2",
+        "video": "https://www.youtube.com/embed/Q1pYxFl_G0M",
+        "course": "Chemistry",
+        "course_id": "02",
+        "name": "01. Introduction (Chemical Reactions) | ভূমিকা (রাসায়নিক বিক্রিয়া) | OnnoRokom Pathshala",
+        "duration": 3.55
+    },
+    {
+        "_id": "6357e0fb5e2b3e2e77c2f0b3",
+        "video": "https://www.youtube.com/embed/23Y6tSeE6I8",
+        "course": "Chemistry",
+        "course_id": "02",
+        "name": "02. Classification of Reactions | বিক্রিয়ার প্রকারভেদ | OnnoRokom Pathshala",
+        "duration": 8.42
+    },
+    {
+        "_id": "6357e0fb5e2b3e2e77c2f0b4",
+        "video": "https://www.youtube.com/embed/5w5OZYwsFXQ",
+        "course": "Chemistry",
+        "course_id": "02",
+        "name": "03. Intro to Reversible Reaction | উভমুখী বিক্রিয়ার ধারণা | OnnoRokom",
+        "duration": 4.44
+    },
+    {
+        "_id": "6357e0fb5e2b3e2e77c2f0b5",
+        "video": "https://www.youtube.com/embed/NRZBWnValaw",
+        "course": "Biology",
+        "course_id": "03",
+        "name": "01. Blood Circulation in Human Body | মানবদেহে রক্ত সংবহন | OnnoRokom Pathshala",
+        "duration": 4.26
+    },
+    {
+        "_id": "6357e0fb5e2b3e2e77c2f0b6",
+        "video": "https://www.youtube.com/embed/1lxHGncpz2g",
+        "course": "Biology",
+        "course_id": "03",
+        "name": "02. Blood and Composition | রক্ত ও রক্তের উপাদান | OnnoRokom Pathshala",
+        "duration": 12.45
+    },
+    {
+        "_id": "6357e0fb5e2b3e2e77c2f0b7",
+        "video": "https://www.youtube.com/embed/2Rm7ksPI2Q8",
+        "course": "Higher Math",
+        "course_id": "04",
+        "name": "01. Introduction to Vector | ভেক্টর রাশি কি? | OnnoRokom Pathshala",
+        "duration": 9.23
+    },
+    {
+        "_id": "6357e0fb5e2b3e2e77c2f0b8",
+        "video": "https://www.youtube.com/embed/kHlgDiCzlR4",
+        "course": "General Math",
+        "course_id": "05",
+        "name": "One Geometric Problem, 11 Solutions Part 01 | একটি জ্যামিতিক সমস্যা, ১১টি সমাধান পর্ব ০১",
+        "duration": 4.57
     }
 ]
